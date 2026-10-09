@@ -1,0 +1,33 @@
+body {
+    font-family: poppins, sans-serif;
+    margin: 0;
+    background-color: #0f172a;
+    color: #ffffff;
+}
+header {
+    background-color: #070c17;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav{
+align-items: center;
+justify-content: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    align-items: center;
+}
+a:hover {
+    color: #00bcd4;
+}
+section {
+    padding: 50px 30px;
+    margin: 20px;
+    background-color: rgb(0, 0, 0);
+}
